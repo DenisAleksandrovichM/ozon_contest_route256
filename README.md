@@ -1,5 +1,6 @@
 # Отборочные задания Ozon Go на платформе Codeforces
-[![GitHub top language][ico-github-top-language]][link-github]
+[![Python][ico-github-python]][link-github]
+[![Python][ico-github-go]][link-github]
 
 ## Introduction
 
@@ -15,5 +16,5 @@ Read more: https://route256.ozon.ru/
 [link-author]: https://github.com/DenisAleksandrovichM
 [link-contributors]: https://github.com/DenisAleksandrovichM/ozon_contest_route256/contributors
 [link-github]: https://github.com/DenisAleksandrovichM/ozon_contest_route256
-[ico-github-top-language]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python
-[ico-github-tag-version]: https://img.shields.io/github/v/tag/superrosko/ozon-golang-school-yandex-contest.svg?style=flat
+[ico-github-python]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python
+[ico-github-go]: https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go
